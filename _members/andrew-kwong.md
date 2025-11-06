@@ -5,6 +5,9 @@ role: faculty
 links:
   home-page: https://andrewkwong.org
   orcid: 0000-0002-6473-288X
+  email: andrew@cs.unc.edu
+    # twitter
+# github: 
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

@@ -29,6 +29,12 @@ mascot:
 faculty:
   description: Faculty
 
+masters: 
+  description: Masters Student
+
+alumni: 
+  description: Alumni
+
 # general
 
 link:
