@@ -1,6 +1,6 @@
 ---
 name: Andrew Kwong
-image: images/photo.jpg
+image: images/andrew-kwong.jpeg
 role: faculty
 links:
   home-page: https://andrewkwong.org

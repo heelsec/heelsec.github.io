@@ -1,6 +1,6 @@
 ---
 name: Noah Brown
-image: images/photo.jpg
+image: images/noah-brown.jpeg
 role: phd
 links:
   email: noahbrow@cs.unc.edu

@@ -1,7 +1,7 @@
 ---
 name: Max Christman
-image: images/max.jpeg
-role: master
+image: images/max-christman.jpeg
+role: masters
 group: alum
 links:
   homepage: https://maxchristman.com/

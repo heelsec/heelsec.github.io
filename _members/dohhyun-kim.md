@@ -1,9 +1,8 @@
 ---
-name: Noah Brown
-image: images/noah.jpg
-role: phd
+name: Dohhyun Kim
+image: images/d.jpg
+role: masters
 links:
-  home-page: https://www.noahabrown.org/
   github: john-doe
 ---
 
