@@ -1,10 +1,10 @@
 ---
 name: Andrew Kwong
 image: images/photo.jpg
-role: principal-investigator
+role: faculty
 links:
   home-page: https://andrewkwong.org
-  orcid: https://orcid.org/0000-0002-6473-288X
+  orcid: 0000-0002-6473-288X
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

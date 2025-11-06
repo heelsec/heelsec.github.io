@@ -31,6 +31,7 @@ mascot:
   description: Mascot
 
 faculty:
+  icon: fa-solid fa-chalkboard-user
   description: Faculty
 
 # general
