@@ -1,6 +1,6 @@
 ---
 name: Lihsuan Chuang
-image: images/photo.jpg
+image: images/james-chuang.jpeg
 role: masters
 links:
   home-page: https://jameschuang2002.github.io
