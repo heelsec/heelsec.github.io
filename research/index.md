@@ -1,17 +1,14 @@
 ---
-title: Publications
+title: Research
 nav:
-  order: 1
-  tooltip: Published works
+  order: 2
+  tooltip: Software, datasets, and more
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %} Publications
+# {% include icon.html icon="fa-solid fa-wrench" %} Research
 
 
-## Publications
+{% include list.html component="card" data="projects" filter="group == 'featured'" %}
 
-{% include search-box.html %}
+{% include section.html %}
 
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %}

@@ -1,47 +1,36 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: DRAM Security
+  # subtitle: a subtitle
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  image: images/dram.jpg
+  # link: https://github.com/
+  description: DRAM is prevalent in nearly all computing devices as a cost-effective way of storing data. We want to ensure that the underlying implementation is secured. 
+  # repo: greenelab/lab-website-template
+  # tags:
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Keystroke Timing Attacks
+  # subtitle: a subtitle
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  image: images/keystroke-timing.jpg
+  # link: https://github.com/
+  description: The spatial layout of a keyboard enables adversaries to predict the input based on keystroke intervals. We aim to explore ways to extract and accurately reconstruct inputs. 
+  # repo: greenelab/lab-website-template
+  # tags:
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+- title: Browser Security
+  # subtitle: a subtitle
+  group: featured
+  image: images/browsers.jpg
+  # link: https://github.com/
+  description: Browsers are integral to the modern society. We evaluate the security of modern browsers and look for potential vulnerabiltiies introduced by the interaction of software and hardware. 
+  # repo: greenelab/lab-website-template
+  # tags:
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+- title: Microarchitecture Security
+  # subtitle: a subtitle
+  group: featured
+  image: images/cpu.jpg
+  # link: https://github.com/
+  description: The microarchitecture of computers has become more complex due to the performance optimizations. We explore the security side-effects that comes along with the performance benefits.  
+  # repo: greenelab/lab-website-template
+  # tags:
