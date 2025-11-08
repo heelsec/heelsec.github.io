@@ -1,6 +1,6 @@
 ---
 name: Yichang Hu
-image: images/photo.jpg
+image: images/yichang-hu.jpeg
 role: phd
 # group: algm
 links:

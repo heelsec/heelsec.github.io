@@ -2,7 +2,7 @@
 name: Max Christman
 image: images/max-christman.jpeg
 role: masters
-group: alum
+group: alumni
 links:
   homepage: https://maxchristman.com/
   github: john-doe

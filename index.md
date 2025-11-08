@@ -1,94 +1,12 @@
 ---
 ---
 
-# Lab Website Template
+# HeelSec
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
+HeelSec is the computer security group of the [Department of Computer Science](https://www.cs.unc.edu) at the [UNC Chapel Hill](https://www.unc.edu/). HeelSec is led by [Prof. Andrew Kwong](https://andrewkwong.org).
 
-{%
-  include button.html
-  type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
-%}
-{%
-  include button.html
-  type="github"
-  text="On GitHub"
-  link="greenelab/lab-website-template"
-%}
+Our research focuses system-level security with a focus on the intersection between hardware and software. Our current project focuses on memory safety and the application of software techniques to exploit hardware vulnerabilities. You can find some topics that we are working on in [research](/research) and view some of our published works in [publications](/publications). 
 
-{% include section.html %}
+##### *PhD Opening: We are looking for talented and motivated PhD students with a strong background in cybersecurity, computer architecture, or systems. Please apply to UNC through the [application system](https://applynow.unc.edu/apply/) and reach out to us with a brief introduction and your CV.*
 
-## Highlights
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="publications"
-  title="Our Research"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
+**Contact Information: andrew\[at\]cs\[dot\]unc\[dot\]edu**

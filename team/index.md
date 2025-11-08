@@ -1,35 +1,21 @@
 ---
-title: Team
+title: People
 nav:
   order: 3
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+# {% include icon.html icon="fa-solid fa-users" %}People
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% include list.html data="members" component="portrait" filter="group != 'alumni' && role == 'faculty'" %}
+{% include list.html data="members" component="portrait" filter="group != 'alumni' && role == 'phd'" %}
+{% include list.html data="members" component="portrait" filter="group != 'alumni' && role == 'masters'" %}
+{% include list.html data="members" component="portrait" filter="group != 'alumni' && role == 'undergrad'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
 {% include section.html %}
 
-{% capture content %}
+# {% include icon.html icon="fa-solid fa-users" %}Alumni
+{% include list.html data="members" component="portrait" filter="group == 'alumni'" %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}

@@ -36,6 +36,9 @@ masters:
 alumni: 
   description: Alumni
 
+postdoc:
+  description: PostDoc
+
 # general
 
 link:

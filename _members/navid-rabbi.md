@@ -1,6 +1,6 @@
 ---
 name: Navid Rabbi
-image: images/navid-rabbi.jpg
+image: images/navid-rabbi.jpeg
 role: phd
 links:
   # home-page: https://andrewkwong.org
