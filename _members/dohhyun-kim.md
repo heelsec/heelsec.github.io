@@ -1,6 +1,6 @@
 ---
 name: Dohhyun Kim
-image: images/dohhyun-kim.jpg
+image: images/dohhyun-kim.png
 role: masters
 links:
   github: john-doe
