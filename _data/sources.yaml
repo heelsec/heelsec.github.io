@@ -1,12 +1,35 @@
-- id: doi:10.1145/3620666.3651382
-- title: "KeyTAR: Practical Keystroke Timing Attacks and Input Reconstruction"
+- id: doi:10.1109/SP63933.2026.00106
+  title: "KeyTAR: Practical Keystroke Timing Attacks and Input Reconstruction"
   authors: 
-    - "Mufan Qiu*"
-    - "Lihsuan Chuang*" 
+    - Mufan Qiu\*
+    - Lihsuan Chuang\* 
     - Dohhyun Kim
     - Huaizhi Qu
-    - Andrew Kwong 
     - Tianlong Chen
+    - Andrew Kwong 
   publisher: 47th IEEE Symposium on Security and Privacy 
   date: 2026-05-18
   link: jameschuang2002.github.io/keytar.pdf
+
+
+- id: doi:10.1145/3620666.3651382
+  title: 'Pathfinder: High-Resolution Control-Flow Attacks Exploiting the Conditional
+    Branch Predictor'
+  authors:
+  - Hosein Yavarzadeh
+  - Archit Agarwal
+  - Max Christman
+  - Christina Garman
+  - Daniel Genkin
+  - Andrew Kwong
+  - Daniel Moghimi
+  - Deian Stefan
+  - Kazem Taram
+  - Dean Tullsen
+  publisher: Proceedings of the 29th ACM International Conference on Architectural
+    Support for Programming Languages and Operating Systems, Volume 3
+  date: '2024-04-27'
+  link: https://doi.org/g99dkw
+  orcid: 0000-0002-6473-288X
+  plugin: sources.py
+  file: sources.yaml

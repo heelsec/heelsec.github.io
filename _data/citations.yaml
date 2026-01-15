@@ -21,14 +21,15 @@
   orcid: 0000-0002-6473-288X
   plugin: sources.py
   file: sources.yaml
-- title: 'KeyTAR: Practical Keystroke Timing Attacks and Input Reconstruction'
+- id: doi:10.1109/SP63933.2026.00106
+  title: 'KeyTAR: Practical Keystroke Timing Attacks and Input Reconstruction'
   authors:
-  - Mufan Qiu*
-  - Lihsuan Chuang*
+  - Mufan Qiu\*
+  - Lihsuan Chuang\*
   - Dohhyun Kim
   - Huaizhi Qu
-  - Andrew Kwong
   - Tianlong Chen
+  - Andrew Kwong
   publisher: 47th IEEE Symposium on Security and Privacy
   date: '2026-05-18'
   link: jameschuang2002.github.io/keytar.pdf
