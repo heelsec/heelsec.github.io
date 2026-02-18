@@ -1,0 +1,20 @@
+.icon {
+  font-size: 1em;
+}
+
+span.icon {
+  line-height: 1;
+}
+
+span.icon > svg {
+  position: relative;
+  top: 0.1em;
+  height: 1em;
+}
+
+span.icon svg * {
+  fill: initial !important;
+  stroke: initial !important;
+}
+
+/*# sourceMappingURL=icon.css.map */
