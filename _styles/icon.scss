@@ -14,3 +14,8 @@ span.icon > svg {
   top: 0.1em;
   height: 1em;
 }
+
+span.icon svg * {
+  fill: initial !important;
+  stroke: initial !important;
+}
