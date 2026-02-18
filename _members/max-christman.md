@@ -5,7 +5,7 @@ role: masters
 group: alumni
 links:
   homepage: https://maxchristman.com/
-  github: john-doe
+  # github: john-doe
 ---
 
 Now PhD at Michigan
