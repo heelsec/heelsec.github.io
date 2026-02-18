@@ -12,4 +12,9 @@ span.icon > svg {
   height: 1em;
 }
 
+span.icon svg * {
+  fill: initial !important;
+  stroke: initial !important;
+}
+
 /*# sourceMappingURL=icon.css.map */
